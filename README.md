@@ -16,7 +16,7 @@ As a newbee to Kaldi, I am sometimes confused with the name convention of Kaldi.
 | mllt  | maximum likelihood linear transform   | train_lda_mllt.sh  |
 | acwt  | acoustic model weight  | post_decode_acwt  |
 | lmwt  | language model weight  | lmwt  |
-|   |   |   |
+| lexiconp  | lexicon with probablity | lexiconp.txt  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
