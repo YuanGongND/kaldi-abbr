@@ -17,8 +17,8 @@ As a newbee to Kaldi, I am sometimes confused with the name convention of Kaldi.
 | acwt  | acoustic model weight  | post_decode_acwt  |
 | lmwt  | language model weight  | lmwt  |
 | lexiconp  | lexicon with probablity | lexiconp.txt  |
-|   |   |   |
-|   |   |   |
+| hires  | high-resolution  | mfcc_hires.conf  |
+| conf  | configuration  | mfcc.conf |
 |   |   |   |
 |   |   |   |
 |   |   |   |
