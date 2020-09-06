@@ -23,7 +23,7 @@ As a newbee to Kaldi, I am sometimes confused with the name convention of Kaldi.
 | bg    |  bigram|   |
 | pr  | prune  |   |
 | bd  | big dictionary |   |
-| nosp | none- silence probabilities and pronunciation probabilities | lang_tmp_nosp |
+| nosp | no silence probabilities and pronunciation probabilities | lang_tmp_nosp |
 |   |   |   |
 |   |   |   |
 |   |   |   |
