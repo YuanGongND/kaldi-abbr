@@ -20,9 +20,9 @@ As a newbee to Kaldi, I am sometimes confused with the name convention of Kaldi.
 | hires  | high-resolution  | mfcc_hires.conf  |
 | conf  | configuration  | mfcc.conf |
 | HCLG  | HMM, Context-dependency, Lexicon, and Grammar| HCLG.fst  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| bg    |  bigram|   |
+| pr  | prune  |   |
+| bd  | big dictionary |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
