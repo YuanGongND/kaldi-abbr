@@ -19,7 +19,7 @@ As a newbee to Kaldi, I am sometimes confused with the name convention of Kaldi.
 | lexiconp  | lexicon with probablity | lexiconp.txt  |
 | hires  | high-resolution  | mfcc_hires.conf  |
 | conf  | configuration  | mfcc.conf |
-|   |   |   |
+| HCLG  | HMM, Context-dependency, Lexicon, and Grammar| HCLG.fst  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
