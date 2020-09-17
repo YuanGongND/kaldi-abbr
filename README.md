@@ -25,7 +25,7 @@ As a newbee to Kaldi, I am sometimes confused with the name convention of Kaldi.
 | bd  | big dictionary |   |
 | nosp | no silence probabilities and pronunciation probabilities | lang_tmp_nosp |
 | tgpr  | pruned tri-gram (language model) | lang_tmp_tgpr |
-|   |   |   |
+| sp  |  speed-perturbed   | exp/ali_train_set_sp  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
